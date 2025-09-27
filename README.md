@@ -7,15 +7,14 @@
   </a>
 </p>
 
-
 <p align="center">
-  💻 Desarrollador de Software apasionado por crear soluciones creativas y eficientes.  
+  💻 Software Developer passionate about creating creative and efficient solutions.  
 </p>
 
 
-## 🚀 Tecnologías y Lenguajes  
+## 🚀 Technologies & Languages  
 
-### 🔹 Lenguajes  
+### 🔹 Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -33,12 +32,13 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🔹 Bases de Datos  
+### 🔹 Databases  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
 
 ## 📊 GitHub Stats & Activity  
 
@@ -51,19 +51,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=doflamingo-ing&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
 </p>
 
+
+## 📅 Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doflamingo-ing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-## 📅 Mis Contribuciones
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doflamingo-ing&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doflamingo-ing&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doflamingo-ing&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
 
-## 🌐 Conéctate conmigo  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jansel-meléndez-portocarrero-42059529a">
@@ -73,7 +68,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 
 
 
